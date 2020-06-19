@@ -1,7 +1,7 @@
 # ConfigAPI
 [![](https://jitpack.io/v/Filocava99/ConfigAPI.svg)](https://jitpack.io/#Filocava99/ConfigAPI)
 ---
-With ConfigAPI you can easily create and manage your configuration files.  
+With ConfigAPI you can easily create and manage your configuration files for [Spigot](https://www.spigotmc.org/).  
 Simply add ConfigAPI to your dependencies and create an instance of the class Config for each configuration file you need to manage.
 
 ## USAGE
