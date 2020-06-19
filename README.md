@@ -1,5 +1,5 @@
 # ConfigAPI
-[![](https://jitpack.io/v/Filocava99/ConfigAPI.svg)](https://jitpack.io/#Filocava99/ConfigAPI) <br><br>
+[![](https://jitpack.io/v/Filocava99/ConfigAPI.svg)](https://jitpack.io/#Filocava99/ConfigAPI)
 ---
 With ConfigAPI you can easily create and manage your configuration files.  
 Simply add ConfigAPI to your dependencies and create an instance of the class Config for each configuration file you need to manage.
