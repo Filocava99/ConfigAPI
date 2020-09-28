@@ -72,7 +72,7 @@ public class Config {
             return true;
         }else{
             logger.info(configFile.getName() + " " +
-                    "was not been found");
+                    "has not been found");
             return false;
         }
     }
