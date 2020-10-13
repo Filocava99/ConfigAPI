@@ -37,11 +37,10 @@ public class Config {
     public Config(@NotNull File configFile, @NotNull JavaPlugin plugin) throws IOException {
         this.configFile = configFile;
         this.plugin = plugin;
-        if(exists()){
-            loadConfig();
-        }else{
+        if(!exists()){
             createConfig();
         }
+        loadConfig();
     }
 
     /**
